@@ -10,7 +10,7 @@ int main() {
 
         printf("                                                                                                      \n");
         printf("-----------------------------------------------------------------------------------------------------\n");
-        printf("BEM VINDO A CALCULADORA MAIS MAIS DO BRASIL\n");
+        printf("BEM VINDO A MELHOR CALCULADORA DO BRASIL\n");
         printf("-----------------------------------------------------------------------------------------------------\n");
         
         printf("                                                                                                      \n");
